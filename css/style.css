@@ -741,7 +741,12 @@ h6 {
     margin-bottom: 0px; }
 
 .tools_expert {
-  padding: 20px 0px 0px 0px; }
+  margin: auto; 
+  width: 80%; }
+  .tools_expert h2 {
+      color: #222222;
+      padding-bottom: 20px;
+  }
   .tools_expert .skill_main .skill_item {
     margin-bottom: 18px; }
     .tools_expert .skill_main .skill_item:last-child {
